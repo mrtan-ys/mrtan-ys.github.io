@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The story of a Tifosi Researcher
+title: Undefined Researcher
 ---
 
 # TAN Yuesheng
@@ -15,11 +15,11 @@ Edge computing and distributed machine learning systems
 
 ## Education
 
-I am lucky enough to have spent my last 7 years with the School of Software Engineering, South China University of Technology ([SCUT](https://www.scut.edu.cn/new/)), where I received B.Eng. in 2022. If everything goes fine, I will graduate and receive Master of Electronic Information in June 2025, after a three-year period of study and research supervised by Prof. YANG Lei.
+I started my university life in 2018, when I was admitted to the __School of Software Engineering, South China University of Technology ([SCUT](https://www.scut.edu.cn/new/))__ with an entrance exam score just enough for the class of brilliance. At the end of a four-year program, I received __B.Eng. in June 2022__ and was admitted to the graduate school without additional exam. After another three-year period of study and research supervised by Prof. YANG Lei, I received __M.Eng. (Electronic Information) in June 2025__, marking the official end of this unforgettable journey in the Higher Education Mega Center in Guangzhou.
 
 ## Publications
 
-As of May 2025, my only publication is a conference paper that gathered the essentials of my current research:
+As of June 2025, my only publication is a conference paper that gathered the essentials of my current research:
 
 __Yuesheng Tan, Lei Yang, Wenhao Li, and Yuda Wu. 2024. RoleML: a Role-Oriented Programming Model for Customizable Distributed Machine Learning on Edges. In Proceedings of the 25th International Middleware Conference (Middleware '24). Association for Computing Machinery, New York, NY, USA, 279–291. https://doi.org/10.1145/3652892.3700765__
 
@@ -50,4 +50,9 @@ You can send me email via the following addresses:
 
 > The list of available addresses may change over time. If you don't want to lose contact, I recommend to save this page in your browser collection :)
 
-**Last Update: 2025-05-19**
+**Last Update: 2025-07-11**
+
+## One more thing
+
+Forza Ferrari!
+
