@@ -43,14 +43,13 @@ __Yuesheng Tan, Lei Yang, Wenhao Li, and Yuda Wu. 2024. RoleML: a Role-Oriented 
 
 ## Contact me
 
-You can send me email via the following addresses:
+You can send me email via the following address:
 
-* [yuesheng.tan@polyu.edu.hk](mailto:yuesheng.tan@polyu.edu.hk) _(recommended)_
-* [seystan@mail.scut.edu.cn](mailto:seystan@mail.scut.edu.cn) _(valid until end of 2025)_
+* [yuesheng.tan@polyu.edu.hk](mailto:yuesheng.tan@polyu.edu.hk)
 
 > The list of available addresses may change over time. If you don't want to lose contact, I recommend to save this page in your browser collection :)
 
-**Last Update: 2025-07-11**
+**Last Update: 2025-12-31**
 
 ## One more thing
 
