@@ -5,9 +5,9 @@ title: Undefined Researcher
 
 # TAN Yuesheng
 
-**Research Assistant, The Hong Kong Polytechnic University (Supervised by Prof. CAO Jiannong)**
+**PhD Student, The Hong Kong Polytechnic University (Supervised by Prof. CAO Jiannong)**
 
-🇨🇳 / [yuesheng.tan@polyu.edu.hk](mailto:yuesheng.tan@polyu.edu.hk) / [https://github.com/mrtan-ys](https://github.com/mrtan-ys)
+🇨🇳 / [yuesheng-01.tan@connect.polyu.hk](mailto:yuesheng-01.tan@connect.polyu.hk) / [https://github.com/mrtan-ys](https://github.com/mrtan-ys)
 
 ## Research interests
 
@@ -45,11 +45,11 @@ __Yuesheng Tan, Lei Yang, Wenhao Li, and Yuda Wu. 2024. RoleML: a Role-Oriented 
 
 You can send me email via the following address:
 
-* [yuesheng.tan@polyu.edu.hk](mailto:yuesheng.tan@polyu.edu.hk)
+* [yuesheng-01.tan@connect.polyu.hk](mailto:yuesheng-01.tan@connect.polyu.hk)
 
 > The list of available addresses may change over time. If you don't want to lose contact, I recommend to save this page in your browser collection :)
 
-**Last Update: 2025-12-31**
+**Last Update: 2026-08-28**
 
 ## One more thing
 
